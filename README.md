@@ -37,6 +37,8 @@ My name is Matheus Martins, I'm a QA at a laboratory software company, but my sp
 [<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />][learning_next_anchor]
+&nbsp;
+https://img.shields.io/static/v1?label=&message=Figma&color=282C34&logo=figma&logoColor=F24E1E
 
 <a name="learning-next"></a>
 
