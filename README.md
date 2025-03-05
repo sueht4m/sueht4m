@@ -1,6 +1,6 @@
-# Olá!
+# Olá ! ⌨
 
-My name is Matheus Martins. I am a freelancer frontend developer living near Joinville, Brazil. ⌨
+My name is Matheus Martins, I'm a QA at a laboratory software company, but my specialty is frontend development. I work as a freelancer and I'm based near Joinville, Brazil. 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
