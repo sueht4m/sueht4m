@@ -42,7 +42,7 @@ My name is Matheus Martins, I'm a QA at a laboratory software company, but my sp
 
 ## 📖  What I am currently learning / improving on
 
-[<img src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="25" />][learning_now_anchor]
+[<img src="https://img.shields.io/static/v1?label=&message=Dart&color=282C34&logo=dart&logoColor=5bd1d7" alt="Dart logo" title="Dart" height="25" />][learning_now_anchor]
 
 ## 👾  What I am interested in learning at some point
 
