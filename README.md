@@ -1,4 +1,4 @@
-# Olá ! ⌨
+# Olá ! 👋
 
 My name is Matheus Martins, I'm a QA at a laboratory software company, but my specialty is frontend development. I work as a freelancer and I'm based near Joinville, Brazil. 
 
